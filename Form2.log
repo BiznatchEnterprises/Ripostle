@@ -1,0 +1,11 @@
+Line 17: Class EZFTPLib.EZFTP of control EZFTP1 was not a loaded control class.
+Line 20: The property name _Version in EZFTP1 is invalid.
+Line 21: The property name _ExtentX in EZFTP1 is invalid.
+Line 22: The property name _ExtentY in EZFTP1 is invalid.
+Line 23: The property name _StockProps in EZFTP1 is invalid.
+Line 24: The property name LocalFile in EZFTP1 is invalid.
+Line 25: The property name RemoteFile in EZFTP1 is invalid.
+Line 26: The property name RemoteAddres in EZFTP1 is invalid.
+Line 27: The property name UserName in EZFTP1 is invalid.
+Line 28: The property name Password in EZFTP1 is invalid.
+Line 29: The property name Binary in EZFTP1 is invalid.

@@ -1,0 +1,12 @@
+Form1 = 22, 29, 906, 397, , 44, 58, 457, 426, C
+Form4 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Functions = 0, 0, 0, 0, C
+module1 = 0, 0, 0, 0, C
+Form3 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Form5 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Sendsearch_frm = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+getsearch_frm = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Transfers = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ip_listcleanup = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+IpGetModule = 0, 0, 0, 0, C
+IpGetter = 0, 0, 0, 0, C, 0, 0, 0, 0, C

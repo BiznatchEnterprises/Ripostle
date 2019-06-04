@@ -1,0 +1,565 @@
+[Root]
+Most Recent Package=Ripostle Beta 1.0
+
+
+[Package|Ripostle 1.0|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\My Documents\Visual Basic Projects\Ripostle\Package
+
+[Package|Ripostle 1.0|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Ripostle 1.0|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Ripostle 1.0|Files Found]
+
+[Package|Ripostle 1.0|Files Released]
+
+[Package|Ripostle 1.0|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\MSDXM.OCX=
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=
+
+[Package|Ripostle 1.0|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSINET.OCX=
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=
+
+[Package|Ripostle 1.0|Files Added]
+
+[Package|Ripostle 1.0|Files Removed]
+
+[Package|Ripostle 1.0|Files In Project]
+C:\WINDOWS\Desktop\ripostle.exe=Yes
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=Yes
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=Yes
+C:\WINDOWS\SYSTEM\MSINET.OCX=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM\MSDXM.OCX=Yes
+C:\ft\FT.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=Yes
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Ripostle 1.0|Configure Registry Files]
+Applicable=No
+
+[Package|Ripostle 1.0|Configure Remote Servers]
+Applicable=No
+
+[Package|Ripostle 1.0|Install Locations]
+C:\WINDOWS\Desktop\ripostle.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDXM.OCX=$(WinSysPath)
+C:\ft\FT.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Ripostle 1.0|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\Desktop\ripostle.exe=No
+
+[Package|Ripostle 1.0|Distribution]
+Type=single
+Size=
+Title=Ripostle 1.0 Beta Setup
+
+[Package|Ripostle 1.0|IconGroups]
+Group0=Ripostle Music Community
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Ripostle 1.0|Ripostle Music Community]
+Icon1=ripostle.exe
+Title1=Ripostle Music Community
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Ripostle 1.0|Package]
+PackageFolder=C:\My Documents\Visual Basic Projects\Ripostle\Package
+ProjectFolder=C:\My Documents\Visual Basic Projects\Ripostle
+ServerSideCab=
+File1=C:\My Documents\Visual Basic Projects\Ripostle\Package\setup.exe
+File2=C:\My Documents\Visual Basic Projects\Ripostle\Package\Setup.Lst
+File3=C:\My Documents\Visual Basic Projects\Ripostle\Package\ripostle.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Ripostle 1.0 Beta Runtimes|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\My Documents\Visual Basic Projects\Ripostle\Package\runtimes
+
+[Package|Ripostle 1.0 Beta Runtimes|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Ripostle 1.0 Beta Runtimes|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Ripostle 1.0 Beta Runtimes|Files Found]
+
+[Package|Ripostle 1.0 Beta Runtimes|Files Released]
+
+[Package|Ripostle 1.0 Beta Runtimes|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\MSDXM.OCX=
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=
+
+[Package|Ripostle 1.0 Beta Runtimes|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSINET.OCX=
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+
+[Package|Ripostle 1.0 Beta Runtimes|Files Added]
+
+[Package|Ripostle 1.0 Beta Runtimes|Files Removed]
+c:\windows\desktop\shared lan stuff\ripostle 1.exe=
+
+[Package|Ripostle 1.0 Beta Runtimes|Files In Project]
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=Yes
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=Yes
+C:\WINDOWS\SYSTEM\MSINET.OCX=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM\MSDXM.OCX=Yes
+C:\ft\FT.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=Yes
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\Desktop\Shared Lan Stuff\ripostle 1.exe=No
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+
+[Package|Ripostle 1.0 Beta Runtimes|Configure Registry Files]
+Applicable=No
+
+[Package|Ripostle 1.0 Beta Runtimes|Configure Remote Servers]
+Applicable=No
+
+[Package|Ripostle 1.0 Beta Runtimes|Install Locations]
+C:\WINDOWS\Desktop\ripostle.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDXM.OCX=$(WinSysPath)
+C:\ft\FT.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+
+[Package|Ripostle 1.0 Beta Runtimes|Configure Shared Files]
+Applicable=No
+C:\WINDOWS\Desktop\ripostle.exe=No
+
+[Package|Ripostle 1.0 Beta Runtimes|Distribution]
+Type=single
+Size=
+Title=Ripostle 1.0 Beta Runtimes
+
+[Package|Ripostle 1.0 Beta Runtimes|Package]
+PackageFolder=C:\My Documents\Visual Basic Projects\Ripostle\Package\runtimes
+ProjectFolder=C:\My Documents\Visual Basic Projects\Ripostle
+ServerSideCab=
+File1=C:\My Documents\Visual Basic Projects\Ripostle\Package\runtimes\setup.exe
+File2=C:\My Documents\Visual Basic Projects\Ripostle\Package\runtimes\Setup.Lst
+File3=C:\My Documents\Visual Basic Projects\Ripostle\Package\runtimes\ripostle 1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|RipRuntimes 1.0|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\My Documents\Visual Basic Projects\Ripostle\Package\runtimes
+
+[Package|RipRuntimes 1.0|Configure DAO ISAMs]
+Applicable=No
+
+[Package|RipRuntimes 1.0|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|RipRuntimes 1.0|Files Found]
+
+[Package|RipRuntimes 1.0|Files Released]
+
+[Package|RipRuntimes 1.0|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\MSDXM.OCX=
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=
+
+[Package|RipRuntimes 1.0|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSINET.OCX=
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+
+[Package|RipRuntimes 1.0|Files Added]
+
+[Package|RipRuntimes 1.0|Files Removed]
+c:\windows\desktop\shared lan stuff\ripostle 1.exe=
+
+[Package|RipRuntimes 1.0|Files In Project]
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=Yes
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=Yes
+C:\WINDOWS\SYSTEM\MSINET.OCX=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM\MSDXM.OCX=Yes
+C:\ft\FT.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=Yes
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=Yes
+C:\WINDOWS\Desktop\Shared Lan Stuff\ripostle 1.exe=No
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+
+[Package|RipRuntimes 1.0|Configure Registry Files]
+Applicable=No
+
+[Package|RipRuntimes 1.0|Configure Remote Servers]
+Applicable=No
+
+[Package|RipRuntimes 1.0|Install Locations]
+C:\WINDOWS\Desktop\ripostle.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDXM.OCX=$(WinSysPath)
+C:\ft\FT.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+
+[Package|RipRuntimes 1.0|Configure Shared Files]
+Applicable=No
+C:\WINDOWS\Desktop\ripostle.exe=No
+
+[Package|RipRuntimes 1.0|Distribution]
+Type=single
+Size=
+Title=Ripostle 1.0 Beta Runtimes
+
+[Package|RipRuntimes 1.0|DepFile]
+DepCabFile=rip10Runtimes.CAB
+DepCabRun=Rip10runtimes.INF
+
+[Package|RipRuntimes 1.0|Package]
+PackageFolder=C:\My Documents\Visual Basic Projects\Ripostle\Package\runtimes
+ProjectFolder=C:\My Documents\Visual Basic Projects\Ripostle
+ServerSideCab=
+File1=C:\My Documents\Visual Basic Projects\Ripostle\Package\runtimes\ripostle 1.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Ripostle 1.0 Beta|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\My Documents\Visual Basic Projects\Ripostle\Package
+
+[Package|Ripostle 1.0 Beta|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Ripostle 1.0 Beta|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Ripostle 1.0 Beta|Files Found]
+
+[Package|Ripostle 1.0 Beta|Files Released]
+
+[Package|Ripostle 1.0 Beta|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\MSDXM.OCX=
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=
+
+[Package|Ripostle 1.0 Beta|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSINET.OCX=
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+
+[Package|Ripostle 1.0 Beta|Files Added]
+c:\program files\microsoft visual studio\vb98\ripset=
+
+[Package|Ripostle 1.0 Beta|Files Removed]
+c:\windows\system\comdlg32.ocx=
+c:\windows\system\ctl3d32.dll=
+c:\windows\system\mscomctl.ocx=
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|Ripostle 1.0 Beta|Files In Project]
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=No
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=No
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=No
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=No
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=Yes
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=Yes
+C:\WINDOWS\SYSTEM\MSINET.OCX=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=No
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=No
+C:\WINDOWS\SYSTEM\MSDXM.OCX=Yes
+C:\ft\FT.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=Yes
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\Desktop\Shared Lan Stuff\ripostle 1.exe=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ripset=Yes
+
+[Package|Ripostle 1.0 Beta|Configure Registry Files]
+Applicable=No
+
+[Package|Ripostle 1.0 Beta|Configure Remote Servers]
+Applicable=No
+
+[Package|Ripostle 1.0 Beta|Install Locations]
+C:\WINDOWS\Desktop\ripostle.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDXM.OCX=$(WinSysPath)
+C:\ft\FT.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\Desktop\Shared Lan Stuff\ripostle 1.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ripset=$(AppPath)
+
+[Package|Ripostle 1.0 Beta|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\Desktop\ripostle.exe=No
+C:\WINDOWS\Desktop\Shared Lan Stuff\ripostle 1.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\ripset=No
+
+[Package|Ripostle 1.0 Beta|Distribution]
+Type=single
+Size=
+Title=Ripostle 1.0 Beta
+
+[Package|Ripostle 1.0 Beta|Package]
+PackageFolder=C:\My Documents\Visual Basic Projects\Ripostle\Package
+ProjectFolder=C:\My Documents\Visual Basic Projects\Ripostle
+ServerSideCab=
+File1=C:\My Documents\Visual Basic Projects\Ripostle\Package\setup.exe
+File2=C:\My Documents\Visual Basic Projects\Ripostle\Package\Setup.Lst
+File3=C:\My Documents\Visual Basic Projects\Ripostle\Package\ripostle 1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Ripostle 1.0 Beta|IconGroups]
+Group0=Ripostle Music Community
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Ripostle 1.0 Beta|Ripostle Music Community]
+Icon1=ripostle.exe
+Title1=Ripostle Music Community
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Ripostle Beta 1.0|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\My Documents\Visual Basic Projects\Ripostle\Package
+
+[Package|Ripostle Beta 1.0|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Ripostle Beta 1.0|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Ripostle Beta 1.0|Files Found]
+
+[Package|Ripostle Beta 1.0|Files Released]
+
+[Package|Ripostle Beta 1.0|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\MSDXM.OCX=
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=
+
+[Package|Ripostle Beta 1.0|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+C:\WINDOWS\SYSTEM\MSINET.OCX=
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=
+
+[Package|Ripostle Beta 1.0|Files Added]
+C:\My Documents\Visual Basic Projects\Ripostle\user.set=
+
+[Package|Ripostle Beta 1.0|Files Removed]
+c:\my documents\visual basic projects\ripostle\user.set=
+
+[Package|Ripostle Beta 1.0|Files In Project]
+C:\My Documents\Visual Basic Projects\Ripostle\Ripostle 1.0 Beta.exe=Yes
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=Yes
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=Yes
+C:\WINDOWS\SYSTEM\MSINET.OCX=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM\MSDXM.OCX=Yes
+C:\ft\FT.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=Yes
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\My Documents\Visual Basic Projects\Ripostle\user.set=No
+
+[Package|Ripostle Beta 1.0|Configure Registry Files]
+Applicable=No
+
+[Package|Ripostle Beta 1.0|Configure Remote Servers]
+Applicable=No
+
+[Package|Ripostle Beta 1.0|Install Locations]
+C:\My Documents\Visual Basic Projects\Ripostle\Ripostle 1.0 Beta.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\DCSysTray.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDXM.OCX=$(WinSysPath)
+C:\ft\FT.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Ripostle Beta 1.0|Configure Shared Files]
+Applicable=Yes
+C:\My Documents\Visual Basic Projects\Ripostle\Ripostle 1.0 Beta.exe=No
+
+[Package|Ripostle Beta 1.0|Distribution]
+Type=single
+Size=
+Title=Ripostle Beta 1.0
+
+[Package|Ripostle Beta 1.0|IconGroups]
+Group0=Ripostle Beta 1.0
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Ripostle Beta 1.0|Ripostle Beta 1.0]
+Icon1="Ripostle 1.0 Beta.exe"
+Title1=Ripostle Beta 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Ripostle Beta 1.0|Package]
+PackageFolder=C:\My Documents\Visual Basic Projects\Ripostle\Package
+ProjectFolder=C:\My Documents\Visual Basic Projects\Ripostle
+ServerSideCab=
+File1=C:\My Documents\Visual Basic Projects\Ripostle\Package\setup.exe
+File2=C:\My Documents\Visual Basic Projects\Ripostle\Package\Setup.Lst
+File3=C:\My Documents\Visual Basic Projects\Ripostle\Package\Ripostle 1.0 Beta.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
